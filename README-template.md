@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/bonlery/Frontend-Mentor---Blog-Preview-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://bonlery.github.io/Frontend-Mentor---Blog-Preview-Card/)
 
 ## My process
 
