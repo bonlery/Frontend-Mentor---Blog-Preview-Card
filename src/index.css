@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+*, ::before, ::after {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: url("/src/assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 900; 
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: url("/src/assets/fonts/Figtree-Italic-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: url("/src/assets/fonts/static/Figtree-ExtraBold.ttf") format("truetype");
+  font-weight: 800; 
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Figtree";
+  src: url("/src/assets/fonts/static/Figtree-Medium.ttf") format("truetype");
+  font-weight: 500; 
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --color-yellow: #f4d04e;     
+  --color-gray-950:#111111;   
+  --color-gray-500: #6B6B6B;    
+  --color-white: #ffffff;     
+
+  --font-sans: "Figtree", sans-serif;
+  --font-body: "Figtree", sans-serif;
+  --font-heading: "Figtree", sans-serif;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+
+
